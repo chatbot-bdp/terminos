@@ -24,6 +24,19 @@ p {
   font-size: 12px;
   font-family: Arial, Helvetica, sans-serif;
 }
+ol {
+  line-height: 150%;
+  margin-right: 15%;
+  text-align: justify;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+  line-height: 150%;
+  text-align: justify;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .container {
   display: grid;
   grid-template-columns: 0.3fr 1.7fr;
